@@ -1,3 +1,4 @@
+
 /* ------------- LAYOUT PRINCIPAL ------------- */
 
     /* ------------- TIPOGRAFIA Y ESTILOS ------------- */
@@ -224,7 +225,6 @@ main {
         -webkit-text-stroke-color: transparent;
         font-family: monospace;
     }
-
     #panelInsertar {
       padding: 50px;
       border-radius: 10px;
