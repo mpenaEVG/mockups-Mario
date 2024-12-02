@@ -23,6 +23,7 @@ html, body{
     background-image: url('../img/FondoJuego.jpg');
     background-repeat: round;
     background-size: cover;
+    overflow:hidden;
 }
 
 main {
